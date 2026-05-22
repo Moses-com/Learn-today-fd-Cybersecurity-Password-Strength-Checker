@@ -17,4 +17,4 @@ A Python cybersecurity project that analyzes password security strength.
 Run all notebook cells in Google Colab.
 
 ## Author
-Your Name
+Moses Malou
